@@ -1,6 +1,6 @@
 {
   "name": "build-and-deploy",
-  "version": "1.0.0",
+  "version": "1.0.0", 
   "description": "continuous deployment of simple javascript application",
   "author": "Eirik Bell",
   "homepage": "https://github.com/nerdschoolbergen/build-and-deploy",
